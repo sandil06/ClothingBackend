@@ -8,3 +8,5 @@ test added from womenswear
 test 2 from stylescombo
 
 test 2 from womenswear
+
+test 3 from stylescombo
