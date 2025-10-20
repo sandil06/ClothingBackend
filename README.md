@@ -1,3 +1,5 @@
-# ClothingBackend
-The backend of the clothing website is the core system that manages all data, business logic, and communication between the user interface and the database. It is responsible for ensuring smooth operations of the platform by handling requests, storing information, and securing transactions.
+🧾 Sehera Collections – High-End Budgeting Visualization System (Backend)
 
+The backend of Sehera Collections serves as the core engine of the budgeting visualization system. It manages all data, business logic, and communication between the frontend interface and the database. Built with Node.js, Express.js, and MongoDB, it ensures reliable and secure handling of all user operations, including budget creation, expense tracking, report generation, and data visualization.
+
+This backend is responsible for processing client requests, managing authentication and authorization, storing financial data, and delivering real-time responses to the frontend. It also maintains system integrity through error handling, validation, and role-based access control, ensuring a smooth and secure experience for all users.
